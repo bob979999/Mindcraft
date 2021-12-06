@@ -3,9 +3,7 @@
         {
             "name": "Win32",
             "includePath": [
-                "${workspaceFolder}/**",
-                "C:/GLFW",
-                "C:/GLFW/include/GLFW"
+                "${workspaceFolder}/**"
             ],
             "defines": [
                 "_DEBUG",
@@ -15,7 +13,7 @@
             "compilerPath": "C:/MinGW/bin/g++.exe",
             "cStandard": "c17",
             "cppStandard": "c++17",
-            "intelliSenseMode": "${default}"
+            "intelliSenseMode": "windows-msvc-x64"
         }
     ],
     "version": 4
